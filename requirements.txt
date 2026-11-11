@@ -1,0 +1,8 @@
+# Direct runtime dependencies; versions are not locked.
+numpy
+pandas
+matplotlib
+openpyxl
+XlsxWriter
+python-docx
+yfinance

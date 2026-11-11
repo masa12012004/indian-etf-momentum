@@ -1,0 +1,32 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*token*.json
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Local data and generated reports
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+*.db
+*.sqlite*
+*.log
+*.docx
+*.pdf
+*.pptx
+*.png
+state_paper*.json
+inputFiles/
+pdfOutput/
+backtest_csvs*/
+_backup*/
